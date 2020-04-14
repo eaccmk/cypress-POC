@@ -1,6 +1,6 @@
 # cypress-POC 🚀 
 
-This Project was created to as a [mvp] for running web Based automation using `cypres` on cli
+This Project was created to as a [mvp] for running web Based automation using `cypress` on cli
 
 ## Parent Project 🎅
 
@@ -24,7 +24,7 @@ Look at this [wiki] for more `cli run` examples.
 
 ## Credits 🙏
 
-Thanks ! [cypress.io] for helping to overcome fundamentel challnege of setting up a Test Automation framework.
+Thanks ! [cypress.io] for helping to overcome fundamental challenge  of setting up a Test Automation framework.
 
 ## License 🔰
 
