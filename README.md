@@ -17,6 +17,7 @@ This repository is linked to its **Parent POC Project**, here is the link [Test-
 > Make sure that you have already run npm init or have a node_modules folder or package.json file in the root of your project to ensure cypress is installed in the correct directory.
 
 **Step 3:** Install cypress `npm install cypress --save-dev` ref [Installing cypress]
+if it throws some errors : try `.\node_modules\.bin\cypress.cmd install` or `.\node_modules\.bin\cypress.cmd install --force`
 
 **Step 4:** Confirm installation,_Imp!_ `node_modules\.bin\cypress open` ([reference]) followed by >>>  `cypress run` !
 
